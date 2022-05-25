@@ -1,7 +1,7 @@
 import * as React from "react";
 
 const Counter = ({ count }) => {
-  const element = <div>Counter: {count}</div>;
+  const element = <div>Counter</div>;
   console.log({ element });
   return element;
 };
